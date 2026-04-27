@@ -4,22 +4,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0OOUSieRSiD6PizqGkGf-15" edge="1" parent="1" source="0OOUSieRSiD6PizqGkGf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0OOUSieRSiD6PizqGkGf-14" value="">
+        <mxCell id="0OOUSieRSiD6PizqGkGf-15" edge="1" parent="1" source="0OOUSieRSiD6PizqGkGf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=left;" target="0OOUSieRSiD6PizqGkGf-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0OOUSieRSiD6PizqGkGf-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;二、世界的物质性及其发展规律&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+        <mxCell id="k3tGeSW7ITJDdiJHKIyu-5" edge="1" parent="1" source="0OOUSieRSiD6PizqGkGf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=left;" target="k3tGeSW7ITJDdiJHKIyu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0OOUSieRSiD6PizqGkGf-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;二、世界的物质性及其发展规律&lt;/span&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="30" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="0OOUSieRSiD6PizqGkGf-17" edge="1" parent="1" source="0OOUSieRSiD6PizqGkGf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0OOUSieRSiD6PizqGkGf-23" value="">
+        <mxCell id="0OOUSieRSiD6PizqGkGf-17" edge="1" parent="1" source="0OOUSieRSiD6PizqGkGf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=left;" target="0OOUSieRSiD6PizqGkGf-23" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0OOUSieRSiD6PizqGkGf-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;（一&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）哲学的基本问题及不同哲学流派&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+        <mxCell id="k3tGeSW7ITJDdiJHKIyu-6" edge="1" parent="1" source="0OOUSieRSiD6PizqGkGf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=left;" target="k3tGeSW7ITJDdiJHKIyu-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="85" />
+              <mxPoint x="500" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0OOUSieRSiD6PizqGkGf-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;（一&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）哲学的基本问题及不同哲学流派&lt;/span&gt;&lt;/h1&gt;" vertex="1">
           <mxGeometry height="30" width="210" x="260" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="0OOUSieRSiD6PizqGkGf-23" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1.哲学及其基本问题&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;（1）哲学的概念&lt;/p&gt;&lt;p&gt;（2）哲学的基本问题&lt;/p&gt;&lt;p&gt;（3）思维和存在何者第一性问题、有无同一性&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="270" x="560" y="25" as="geometry" />
+        <mxCell id="0OOUSieRSiD6PizqGkGf-23" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1.哲学及其基本问题&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;（1）哲学的概念&lt;/p&gt;&lt;p&gt;（2）哲学的基本问题&lt;/p&gt;&lt;p&gt;（3）思维和存在何者第一性问题、有无同一性&lt;/p&gt;&lt;p&gt;（4）哲学基本问题的意义&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="270" x="560" y="7.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k3tGeSW7ITJDdiJHKIyu-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;2.不同的哲学流派&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="570" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="k3tGeSW7ITJDdiJHKIyu-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="（二）辩证唯物论" vertex="1">
+          <mxGeometry height="30" width="160" x="260" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
